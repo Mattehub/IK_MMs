@@ -1,4 +1,4 @@
-$\textbf{Higher-order phenomena in complex systems with a special focus on the brain: an hands-on experience}$
+# Higher-order phenomena in complex systems with a special focus on the brain: an hands-on experience
 
 Welcome! 
 
